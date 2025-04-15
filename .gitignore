@@ -1,0 +1,6 @@
+data/
+checkpoints/
+.venv
+.idea/
+.vscode/
+__pycache__/
